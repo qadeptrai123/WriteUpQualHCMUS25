@@ -6,7 +6,7 @@ Các thành viên:
 - Lê Quốc Anh
 - Nguyễn Hoàng Anh Khoa
 - Nguyễn Hoàng Quân
-- Lê Quốc Anh
+- Ân Tiến Nguyên An
 
 
 ## Danh sách các bài solved:
